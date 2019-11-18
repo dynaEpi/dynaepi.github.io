@@ -1,12 +1,12 @@
 ---
 layout: page
-excerpt: "About Me..."
+excerpt: "About DynaEpi..."
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+Infectious epidemiology is a dynamic changing landscape. DynaEpi is a clinical decision support tool that helps identify potential emergent zoonotic diseases for inclusion in differential diagnosis.
 
-## Current Interests and Projects:
+## For more information:
 
-- Website Design
-- [GitHub Pages](http://laderast.github.io)
-- Academia
+- [Static Prototype](https://dynamicepidemiology.invisionapp.com/public/share/E4WTP2TWY)
+- [GitHub Repository for Paper and Poster](https://github.com/dynaEpi/student_design_challenge)
+- [Presented at the 2019 AMIA Annual Symposium in Washington DC] (https://www.amia.org/amia2019)
