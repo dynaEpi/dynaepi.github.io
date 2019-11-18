@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Dynaepi, a 2019 AMIA Student Design Challenge Project
+title: Dynaepi
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: DynaEpi
   avatar: dynaepi_logo.png
-  bio: "DynaEpi is a clinical support decision tool to aid clinicians in identifying potential emergent zoonotic diseases"
+  bio: "a 2019 AMIA Student Design Challenge Project to aid clinicians in identifying potential emergent zoonotic diseases"
   email: langasek@ohsu.edu
   # Do not include the @ symbol in your Twitter username
   # twitter: laderast
